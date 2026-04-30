@@ -126,6 +126,6 @@ pip install pyserial
 This project demonstrates how embedded systems and software integration can provide an efficient and cost-effective parking solution. It reduces human effort, improves user convenience, and serves as a foundation for smart city applications.
 
 ## 👨‍💻 Authors
-Sanjeevi V P
-Srilaxman E U
+Sanjeevi V P, 
+Srilaxman E U, 
 Muthu Selvam V
